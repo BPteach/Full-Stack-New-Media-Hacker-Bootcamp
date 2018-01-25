@@ -434,7 +434,7 @@
 
 ### 更多问题？
 
-更多常见问题你可以了解 [知识库](https://www.bpteach.com/knowledge-base/)，或者可以通过 [工单系统](https://bpteach.kf5.com/hc/request/new/) 与我们联系。
+更多常见问题你可以了解 [知识库](https://www.bpteach.com/knowledge-base/)，或者可以通过 [点击链接](https://www.bpteach.com/contact/) 与我们联系。
 
 ---
 
