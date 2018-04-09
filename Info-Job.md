@@ -32,6 +32,14 @@
 - [口碑营销](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Job-Info.md#user-content-口碑营销)
 
 
+[某大型央企招聘靠谱的90后新媒体运营人员](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Info-Job.md#user-content-%E6%9F%90%E5%A4%A7%E5%9E%8B%E5%A4%AE%E4%BC%81%E6%8B%9B%E8%81%98%E9%9D%A0%E8%B0%B1%E7%9A%8490%E5%90%8E%E6%96%B0%E5%AA%92%E4%BD%93%E8%BF%90%E8%90%A5%E4%BA%BA%E5%91%98)
+
+- [公司简介](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Info-Job.md#user-content-%E5%85%AC%E5%8F%B8%E7%AE%80%E4%BB%8B-2)
+- [【职位信息】](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Info-Job.md#user-content-%E8%81%8C%E4%BD%8D%E4%BF%A1%E6%81%AF-13)
+- [【岗位职责】](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Info-Job.md#user-content-%E5%B2%97%E4%BD%8D%E8%81%8C%E8%B4%A3)
+- [【我们希望你】](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Info-Job.md#user-content-%E6%88%91%E4%BB%AC%E5%B8%8C%E6%9C%9B%E4%BD%A0)
+- [【我们可以提供】](https://github.com/BPteach/Full-Stack-New-Media-Hacker-Bootcamp/blob/master/Info-Job.md#user-content-%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E6%8F%90%E4%BE%9B)
+
 
 ## 「博雅天下数字营销」招聘需求 
 
@@ -359,3 +367,37 @@
 5. 学历：大专及以上；
 6. 加分项：文笔优美、英语流利、拥有自媒体运营经历或广独立项目经验；
 7. 我们接受实习生。
+
+## 某大型央企招聘靠谱的90后新媒体运营人员
+
+### 公司简介
+
+某电网公司。
+
+### 【职位信息】
+
+就职地点：广州
+
+待遇：面议
+
+### 【岗位职责】
+
+1. 企业新媒体平台（微信、微信、网站等）的日常运营及推广；
+2. 企业文化与品牌传播、策划、执行；
+3. 粉丝运营；
+4. 其他新闻宣传任务。
+
+### 【我们希望你】
+
+1. 有网感、有脑洞、有冲劲、有执行力（要好玩！！）；
+2. 对新媒体品牌运营有浓厚兴趣；
+3. 有敏锐的新闻触觉，能够及时发现新闻热点，有较好的文字写作能力；
+4. 能够熟悉使用各类新媒体运营工具，掌握简单的PS和视频剪辑技术；
+5. 本科及以上学历的90后，有相关行业从业经验者优先，有业界引起强烈反响的作品者优先。
+
+### 【我们可以提供】
+
+1. 有竞争力的行业薪酬；
+2. 五险一金保障；
+3. 丰富的培训学习机会；
+4. 良好的工作氛围（呆萌学霸和高颜值御姐等着你~）。
